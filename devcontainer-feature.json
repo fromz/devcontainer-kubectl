@@ -1,0 +1,7 @@
+{
+    "id": "kubectl",
+    "version": "1.0.0",
+    "name": "kubectl",
+    "description": "Installs kubectl",
+    "documentationURL": "https://github.com/fromz/devcontainer-kubectl/blob/master/README.md"
+}
